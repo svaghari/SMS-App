@@ -1,0 +1,58 @@
+// Importing Resets
+
+@import "reset";
+
+// Importing Fonts
+
+@import "fonts";
+
+// Importing Typography
+
+@import "typography";
+
+// Container
+
+.container {
+  width: 100%;
+  padding-right: 1.25rem;
+  padding-left: 1.25rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media (min-width: 576px) {
+  .container {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+
+  html {
+    font-size: 18px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1140px;
+  }
+}
+
+.note {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+body {
+  // font-family: sans-serif;
+}
