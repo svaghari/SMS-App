@@ -14,7 +14,7 @@
 * STE in V1-2. 
 
 This patient also had STE in V4R, confirming the diagnosis of RV infarction:
-https://litfl.com/wp-content/uploads/2018/09/TOP-100-ECQ-QUIZ-LITFL-001b.jpg
+<https://litfl.com/wp-content/uploads/2018/09/TOP-100-ECQ-QUIZ-LITFL-001b.jpg>
 ---------------
 
 **CLINICAL PEARLS**
