@@ -1,4 +1,4 @@
-#### ECG ANSWER and INTERPRETATION
+## ECG ANSWER and INTERPRETATION
 
 #### General:
 * Sinus rhythm, rate 84bpm. 
